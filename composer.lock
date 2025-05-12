@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "d8744d91e45882af9459172c3ec03f5a",
+    "packages": [
+        {
+            "name": "alanvdb/server-interfaces",
+            "version": "v1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Alanvdb/server-interfaces.git",
+                "reference": "413ee16d4bc21bed65666b49f3da09974b783cd3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Alanvdb/server-interfaces/zipball/413ee16d4bc21bed65666b49f3da09974b783cd3",
+                "reference": "413ee16d4bc21bed65666b49f3da09974b783cd3",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "AlanVdb\\Server\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "alanvdb",
+                    "email": "alanvdb.coder@gmail.com"
+                }
+            ],
+            "description": "Server interfaces and exceptions",
+            "support": {
+                "issues": "https://github.com/Alanvdb/server-interfaces/issues",
+                "source": "https://github.com/Alanvdb/server-interfaces/tree/v1.1.0"
+            },
+            "time": "2025-05-12T13:18:54+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}
